@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1083px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-image-1 {
@@ -47,123 +47,11 @@
   font-size: 0.9375rem;
   font-weight: 700;
   background-image: none;
-  margin: 73px auto 0;
+  margin: 73px auto 60px;
   padding: 7px 74px 9px;
 }
 
-.u-section-1 .u-countdown-1 {
-  background-image: none;
-  margin: 83px auto 60px;
-  padding: 0 10px;
-}
-
-.u-section-1 .u-countdown-counter-1 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-1 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-1 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-2 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-2 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-2 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-3 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-3 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-3 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-4 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-4 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-4 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-5 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-5 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-5 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-6 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-6 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 893px;
-  }
-}
-
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 684px;
-  }
-
   .u-section-1 .u-image-1 {
     margin-left: 341px;
   }
@@ -178,10 +66,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 513px;
-  }
-
   .u-section-1 .u-image-1 {
     margin-left: 161px;
   }
@@ -197,10 +81,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 284px;
-  }
-
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 340px;
