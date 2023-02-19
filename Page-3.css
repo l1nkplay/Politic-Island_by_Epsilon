@@ -1,10 +1,9 @@
  .u-section-1 {
   background-image: url("images/ghh-min.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 800px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-text-1 {
@@ -12,7 +11,7 @@
   font-family: Alata;
   font-size: 2.25rem;
   width: 409px;
-  margin: 231px auto 0;
+  margin: 269px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -47,13 +46,13 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 660px;
+    min-height: 720px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 506px;
+    min-height: 799px;
   }
 
   .u-section-1 .u-text-2 {
@@ -67,7 +66,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 380px;
+    min-height: 817px;
   }
 
   .u-section-1 .u-text-2 {
@@ -82,7 +81,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 636px;
   }
 
   .u-section-1 .u-text-1 {
